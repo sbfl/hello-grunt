@@ -1,0 +1,14 @@
+{
+  "name": "gruntcart",
+  "description": "My cart",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-typescript": "^0.8.0"
+  }
+}
