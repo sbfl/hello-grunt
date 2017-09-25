@@ -3,6 +3,7 @@
   "description": "My cart",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": "https://github.com/sbfl/hello-grunt.git",
   "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.1",
